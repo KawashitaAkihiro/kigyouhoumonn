@@ -67,7 +67,7 @@ body {
     padding-top: 100px;
   }
   
-  /* inputとtextareaのCSSを指定してください */
+  /* inputとtextareaのCSSを指定 */
   input,textarea {
     width :400px;
     margin-top:10px;
@@ -77,7 +77,7 @@ body {
     border:1px solid #eff1f3;
   }
   
-  /* contact-submitのCSSを指定してください */
+  /* contact-submitのCSSを指定 */
   .contact-submit{
     background-color:#dee7ec;
     color:#e3e8eb;
