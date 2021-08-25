@@ -77,11 +77,15 @@ body {
     border:1px solid #010a13;
   }
   
-  /* contact-submitのCSSを指定 */
+  /* 送信ボタンのCSSを指定 */
   .contact-submit{
     background-color:#02324d;
     color:#e9edf0;
-    
+    transition: 0.2s;
+  }
+
+  .contact-submit active{
+    transform:translateY(10px);
   }
   
   .footer {
@@ -104,3 +108,6 @@ body {
     padding-bottom: 20px;
   }
   
+  .contact-form span{
+color : #ff4a4a;
+  }
