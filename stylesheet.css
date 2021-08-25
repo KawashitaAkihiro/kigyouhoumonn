@@ -74,12 +74,12 @@ body {
     margin-bottom:30px;
     padding:20px;
     font-size:18px;
-    border:5px solid #010a13;
+    border:1px solid #010a13;
   }
   
   /* contact-submitのCSSを指定 */
   .contact-submit{
-    background-color:#dee7ec;
+    background-color:#02324d;
     color:#e9edf0;
     
   }
